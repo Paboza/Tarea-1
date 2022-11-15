@@ -11,8 +11,10 @@
 ![notacion de ingenieria](https://user-images.githubusercontent.com/116833964/201847565-680d39e9-cf9e-4bcf-ad10-25504a188910.jpg)
 ![Notacion cientifica (1)](https://user-images.githubusercontent.com/116833964/201847583-1f3a21a2-a44e-4f2b-817c-c4791e521116.jpg)
 ![Estructura atomica](https://user-images.githubusercontent.com/116833964/201847613-0856dc95-5cf8-4498-b4a6-84177ae12386.jpg)
-
-
+![carga electrica](https://user-images.githubusercontent.com/116833964/201943714-ce86dd0f-32b9-4deb-86fa-b3679e7b58a1.png)
+![voltaje, corriente y resistencia](https://user-images.githubusercontent.com/116833964/201962693-3d5d6a25-8ef3-4b05-8bfa-12bcf917756f.png)
+![la fuente de voltaje](https://user-images.githubusercontent.com/116833964/201972770-857c790d-03ca-42c8-83b3-c6b3c7bb4056.png)
+# EJERCICIOS PARES
 ![SECCIÓN 1_1](https://user-images.githubusercontent.com/116833964/201847295-39d30af5-bae8-4004-9d98-fd0f3917cba3.jpg)
 ![SECCIÓN 1_2](https://user-images.githubusercontent.com/116833964/201847310-e43ed715-97b4-46cb-aebc-89dd26ae004a.jpg)
 ![SECCIÓN 1_3](https://user-images.githubusercontent.com/116833964/201847322-7b1c539e-6b8e-4720-ac61-36e2ae3133e7.jpg)
